@@ -198,7 +198,7 @@ Retail-Demand-Forecasting/
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/akshita-1218/Retail-Demand-Forecasting.git>
+git clone https://github.com/akshita-1218/Retail-Demand-Forecasting.git
 ```
 
 ### Navigate to the Project Folder
