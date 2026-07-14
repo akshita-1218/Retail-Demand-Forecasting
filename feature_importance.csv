@@ -1,0 +1,15 @@
+Feature,Importance
+rolling_mean_30,3581
+rolling_mean_7,2478
+lag_7,1584
+dayofweek,1413
+lag_14,1341
+day,1279
+month,1040
+lag_28,986
+weekofyear,863
+item,155
+year,147
+store,128
+is_weekend,5
+quarter,0
